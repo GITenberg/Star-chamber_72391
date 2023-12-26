@@ -1,0 +1,36 @@
+_repo: Star-chamber_72391
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Summer, Leo
+    gutenberg_agent_id: '56666'
+    url: http://www.gutenberg.org/2009/agents/56666
+creator:
+  author:
+    agent_name: Fyfe, H. B. (Horace Bowne)
+    aliases:
+    - Fyfe, Horace Bowne
+    - Fyfe, H.B.
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '25276'
+    url: http://www.gutenberg.org/2009/agents/25276
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72391'
+language: en
+pgterms:marc905: 20231124064029fyfe
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Star chamber
+url: http://www.gutenberg.org/ebooks/72391
