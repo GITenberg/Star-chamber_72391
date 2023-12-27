@@ -5,6 +5,9 @@ contributor:
     agent_name: Summer, Leo
     gutenberg_agent_id: '56666'
     url: http://www.gutenberg.org/2009/agents/56666
+covers:
+- cover_type: archival
+  image_path: 72391-h/images/cover.jpg
 creator:
   author:
     agent_name: Fyfe, H. B. (Horace Bowne)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '25276'
     url: http://www.gutenberg.org/2009/agents/25276
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72391#Star-chamber
 gutenberg_issued: '2023-12-12'
 gutenberg_type: Text
 identifiers:
